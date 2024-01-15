@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name":" Dr. Sheth's Ceramide & Vitamin C Sunscreen",
+        "price": 280,
+        "image": "image/7.png"
+    },
+    {
+        "id": 2,
+        "name":" Cetaphil DAM Daily Advance Ultra Hydrating Lotion",
+        "price": 250,
+        "image": "image/2.png"
+    },
+    {
+        "id": 3,
+        "name":" La Shield Pollution Protect Mineral Sunscreen Gel",
+        "price": 290,
+        "image": "image/3.png"
+    },
+    {
+        "id": 4,
+        "name":" Dot & Key Vitamin C + E Super Bright Sunscreen",
+        "price": 350,
+        "image": "image/4.png"
+    },
+    {
+        "id": 5,
+        "name":" Neutrogena Hydro Boost Hyaluronic Acid Moisturizer",
+        "price": 390,
+        "image": "image/5.png"
+    },
+    {
+        "id": 6,
+        "name":" Minimalist Marula Oil 5% Face Moisturizer",
+        "price": 330,
+        "image": "image/6.png"
+    },
+    {
+        "id": 7,
+        "name":" Dr. Sheth's Ceramide & Vitamin C Oil - Free Moisturizer",
+        "price": 320,
+        "image": "image/7.png"
+    },
+    {
+        "id": 8,
+        "name":" Cetaphil Face Wash Gentle Skin Cleanser",
+        "price": 250,
+        "image": "image/8.png"
+    }
+  
+  ]
